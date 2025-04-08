@@ -1,4 +1,4 @@
-##Algerian Forest Fire Prediction Model
+# Algerian Forest Fire Prediction Model
 
 This project is a machine learning model that predicts the likelihood of forest fires occurring in Algeria based on various environmental and climatic factors. The model is trained using historical data on weather conditions and fire occurrences, helping to provide early warnings for fire-prone areas.
 
@@ -8,7 +8,7 @@ This machine learning model uses the Algerian Forest Fire dataset to predict the
 
 The model was built using Random Forest or Logistic Regression, or another suitable algorithm. It is intended to aid in predicting when and where forest fires are most likely to occur based on weather conditions.
 
-##Installation
+## Installation
 
 To run the Algerian Forest Fire Prediction model on your local machine, follow these steps:
 
@@ -33,7 +33,7 @@ pandas
 scikit-learn
 seaborn
 
-#Usage
+## Usage
 
 To run the forest fire prediction model, follow these steps:
 
@@ -49,7 +49,7 @@ To run the forest fire prediction model, follow these steps:
     Predicted result: High risk of fire
 
 
-#Model
+## Model
 
 The forest fire prediction model uses a machine learning algorithm (such as Random Forest, Decision Trees, or Logistic Regression) to classify or predict the likelihood of a fire. Here are the key details:
 
@@ -67,7 +67,7 @@ Hyperparameters:
     - Solver: liblinear
 
 
-#Contributing
+## Contributing
 
 We welcome contributions! If you'd like to improve the project, please follow these steps:
 
